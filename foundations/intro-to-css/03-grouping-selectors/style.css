@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.butt_two,
+.butt_one
+{
+    font-size: 28px;
+    font-family:  Helvetica, 'Times New Roman' ,sans-serif;
+}
+.butt_one
+{
+    background-color: black;
+    color: white;
+}
+.butt_two
+{
+    background-color: yellow;
+}
